@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.javier.tarea07.Nota;
+import com.example.javier.tarea07.Componentes.Nota;
 import com.example.javier.tarea07.R;
 
 import java.util.List;
